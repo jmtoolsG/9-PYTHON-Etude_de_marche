@@ -6,10 +6,10 @@ L'objectif est de proposer une première analyse des groupements de pays à cibl
 #### Compétences visées :
 - Effectuer un clustering simple
   - Réaliser une ACP - Analyse en Composantes Principales
-  - Expliquer l'ACP via :
-    - Un éboulis des valeurs propres
-    - Un cercle de corrélations
-    - Un nuage d'individus
+    - Expliquer l'ACP via :
+      - Un éboulis des valeurs propres
+      - Un cercle de corrélations
+      - Un nuage d'individus
     
 - Réalisez une analyse exploratoire de données
 - Réaliser une Classification Ascendante Hiérarchique - CAH avec dendogramme
