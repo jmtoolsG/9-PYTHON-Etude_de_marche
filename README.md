@@ -14,6 +14,7 @@ L'objectif est de proposer une première analyse des groupements de pays à cibl
 - Réalisez une analyse exploratoire de données
 - Réaliser une Classification Ascendante Hiérarchique - CAH avec dendogramme
 - Réaliser une classification en utilisant la méthode de clustering K-Means
+  - Justifier le nombre de classes choisies
 - Caractériser les différents clusters à l'aide des centroïdes et d'une heatmap
 
 #### Outils utilisés :
